@@ -109,7 +109,7 @@ This project was a collaborative effort with clear role distribution. Some membe
 Everybody enjoyed working on the tasks they chose and collaborating as a group with other team members. We also liked sharing knowledge based on our research and findings. 
 
 # Credits 
-[Me [Noor](https://github.com/Hunzaa) <br>
+Me [Noor](https://github.com/Hunzaa) <br>
 [Michelle](https://github.com/michellejanay) <br>
 [Evans](https://github.com/e-ldn) <br>
 [Adam](https://github.com/Adam5510) <br>
